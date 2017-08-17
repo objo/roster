@@ -64,3 +64,5 @@ end
 
 gem 'faker'
 gem 'carrierwave'
+gem 'fog'
+gem 'figaro'
